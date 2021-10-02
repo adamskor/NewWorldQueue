@@ -19,6 +19,9 @@ def main():
     sleepTime = Hours*3600 + Minutes*60
 
     """Logic you should not touch"""
+    for i in range(3):
+        pg.moveTo(ScreenResolutionWidth/2, ScreenResolutionHeight/2)
+    t.sleep(1)
     t.sleep(sleepTime)
     for i in range(3):
         pg.moveTo(ScreenResolutionWidth/2, ScreenResolutionHeight/2)
