@@ -1,5 +1,5 @@
 import time as t
-from "/pyautogui" import setup
+import pyautogui as pg
 
 def main():
     """Values that you might want to change"""
