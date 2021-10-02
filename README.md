@@ -32,6 +32,8 @@ When you are ready to start the countdown until you join queue you simply have t
 
 If there are any errors when trying to run this program make sure the earlier steps are completed or send me an email at *adamengman1@gmail.com* and will try to assist you.
 
-After this you should lose your cursor in the command prompt and blank line should appear under the line on which you wrote the command. Do not close the command prompt. Now you can start up New World and navigate until you reach the screen with the **PLAY** button that enters you in to a queue. Now you can turn off your monitor and go to bed and tommorow morning the computer will press play at the time you set, placing you in the queue.
+After this you should lose your cursor in the command prompt and a information message should appear. Do not close the command prompt. Now you can start up New World and navigate until you reach the screen with the **PLAY** button that enters you in to a queue. Now you can turn off your monitor and go to bed and tommorow morning the computer will press play at the time you set, placing you in the queue.
+
+If you accidentally started the program or want to change the time, press **ctrl-z** when in the command prompt and the program should terminate.
 
 Notes: I chose not to create this program as an executable with a simple GUI simply because Windows antivirus and defender would go crazy and no one would dare to download and start that file, and rightly so. 
