@@ -22,6 +22,8 @@ def main():
     for i in range(3):
         pg.moveTo(ScreenResolutionWidth/2, ScreenResolutionHeight/2)
     t.sleep(1)
+    print("Starting autoqueue: please navigate to the screen in New World where you join the queue")
+    print("Joining queue in " + str(Hours) + " hours and " + str(Minutes) + " minutes.")
     t.sleep(sleepTime)
     for i in range(3):
         pg.moveTo(ScreenResolutionWidth/2, ScreenResolutionHeight/2)
